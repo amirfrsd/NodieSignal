@@ -1,0 +1,36 @@
+{
+  "name": "nodiesignal",
+  "version": "1.0.0",
+  "description": "Node JS Wrapper For OneSignal API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirfrsd/NodieSignal.git"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "api",
+    "rest",
+    "express",
+    "onesignal",
+    "notifications",
+    "apn"
+  ],
+  "author": "Amir Hossein Farsad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirfrsd/NodieSignal/issues"
+  },
+  "homepage": "https://github.com/amirfrsd/NodieSignal#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-api-docs": "0.0.4",
+    "mongoose": "^4.9.6",
+    "onesignal": "^0.1.2"
+  }
+}
